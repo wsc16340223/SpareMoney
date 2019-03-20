@@ -1,1 +1,1 @@
-# [2019挣闲钱项目目录](index.md)
+# [2019挣闲钱项目目录](https://strugglinggreenhands.github.io/SpareMoney/)
