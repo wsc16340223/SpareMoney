@@ -1,4 +1,4 @@
-# 2019挣闲钱项目
+# 2019挣闲钱项目录
 ### 课程链接：
 [软件系统分析与设计指南](https://sysu-swsad.github.io/swad-guide/04-inception)
 
